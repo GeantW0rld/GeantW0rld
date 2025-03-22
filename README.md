@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I'm GeantWorld
+I'm 18 years old
+You can support my project by buy me a coffee
+<a href="https://www.buymeacoffee.com/geantworld" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+I like coding and making some stuff
+
 <!--
 **GeantW0rld/GeantW0rld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
