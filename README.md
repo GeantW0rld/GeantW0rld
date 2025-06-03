@@ -1,23 +1,19 @@
 ## Hi there 👋
 
-I'm GeantWorld<br>
-I'm 18 years old<br>
-You can support my project by buy me a coffee<br>
-<a href="https://www.buymeacoffee.com/geantworld" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-<br>
-I like coding and making some stuff
+# About me
+- I'm GeantWorld
+- I'm 18 years old
+- I speak French and English (little German but no)
+- I'm self-taught
 
-<!--
-**GeantW0rld/GeantW0rld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# stats
+<div align="center">
+  <img alt="GeantWorld GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=GeantW0rld&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" />
+  <br>
+  <img alt="GeantWorld GitHub Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeantW0rld&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" />
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# My skills
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,react,html,css,docker,linux,git,vscode&theme=dark" />
+</div>
