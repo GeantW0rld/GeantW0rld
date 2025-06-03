@@ -13,7 +13,7 @@
   <img alt="GeantWorld GitHub Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeantW0rld&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" />
 </div>
 
-# My skills
+# things I do
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,react,html,css,docker,linux,git,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,react,html,css,linux,git,vscode&theme=dark" />
 </div>
