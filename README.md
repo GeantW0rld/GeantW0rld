@@ -15,5 +15,5 @@
 
 # things I do
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,react,html,css,linux,git,vscode,robloxstudio,&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,react,html,css,linux,git,vscode,robloxstudio,cpp,cs,&theme=dark" />
 </div>
