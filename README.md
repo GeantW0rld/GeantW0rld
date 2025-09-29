@@ -15,7 +15,7 @@
 
 # things I do
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,html,css,cpp,cs,python&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,html,css,cpp,cs,python,lua&theme=dark" />
 </div>
 
 # Learning
