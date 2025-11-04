@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hey 👋
+
+<div align="center">
+  <img src="https://geantworld.eu/favicon.png" width=300 height=300 />
+</div>
 
 # About me
 - I'm GeantWorld
