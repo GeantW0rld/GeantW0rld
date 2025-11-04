@@ -20,5 +20,5 @@
 
 # Learning
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,&theme=dark" />
 </div>
