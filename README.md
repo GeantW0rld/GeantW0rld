@@ -7,8 +7,9 @@
 # About me
 - I'm GeantWorld
 - I'm 18 years old
-- I speak French and English (little German but no)
+- I speak French and English
 - I'm self-taught
+- Belgium 
 
 # stats
 <div align="center">
@@ -17,9 +18,9 @@
   <img alt="GeantWorld GitHub Langs" src="https://github-readme-streak-stats.herokuapp.com/?user=GeantW0rld&show_icons=true&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" />
 </div>
 
-# things I do
+# skills
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,html,css,cpp,cs,python,lua&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,html,css,python&theme=dark" />
 </div>
 
 # Learning
