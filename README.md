@@ -1,7 +1,7 @@
 ## Hey 👋
 
 <div align="center">
-  <img src="https://geantworld.eu/favicon.png" width=300 height=300 />
+  <img src="https://geantworld.eu/_astro/geantworld.DHg1vzBX.png" width=480 height=auto />
 </div>
 
 # About me
