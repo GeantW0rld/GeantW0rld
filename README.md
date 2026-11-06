@@ -6,7 +6,7 @@
 
 # About me
 - I'm GeantWorld
-- I'm 18 years old
+- I'm 19 years old
 - I speak French and English
 - I'm self-taught
 - Belgium 
